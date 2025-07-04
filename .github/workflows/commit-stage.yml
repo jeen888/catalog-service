@@ -51,7 +51,7 @@ jobs:
           kubeval: 0.16.1
           command: |
             kubeval --strict -d k8s
-        # original source 25.07.03
+        # original source 25.07.04
         # run: |
         #   kubeconform --strict k8s
   package:
